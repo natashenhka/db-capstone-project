@@ -1,1 +1,1 @@
-# db-capstone-project
+Adding readme to the project repo
